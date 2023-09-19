@@ -1,0 +1,15 @@
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.exe.config
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.exe
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.pdb
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.csproj.AssemblyReference.cache
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.csproj.CoreCompileInputs.cache
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.exe
+D:\az\R56\M_04_HTML\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.pdb
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.exe.config
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.exe
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\bin\Debug\Ex_01_EviTest.pdb
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.csproj.AssemblyReference.cache
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.csproj.SuggestedBindingRedirects.cache
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.csproj.CoreCompileInputs.cache
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.exe
+H:\HTML class\Class_009_010\Class_010\Isdb_WADA_M04_D010\Ex_01_EviTest\obj\Debug\Ex_01_EviTest.pdb
